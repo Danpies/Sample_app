@@ -58,4 +58,6 @@ group :test do
   gem 'mini_backtrace'
   gem 'guard-minitest'
   gem 'test-unit'
+  gem 'guard'
+  gem 'ruby-prof'
 end
